@@ -1,8 +1,28 @@
-# UNRESTRICTED MOVE-SELL QUEST ITEMS README for v2.0.0
-1. DESCRIPTION
-1.1 This mod allows you to move quest items into stash or sell them to traders.
-1.2 Selling quest items (and any other unassigned for selling) is not quite done yet, as it does not define right price. If some of modders have the knowledge of editing ingame items prices - contact me via PM on Nexusmods.
-2. INSTALLATION
-2.1 Choose the main file or one of optional. They all work undependently just fine.
-2.2 Use Nexus Mod Manager for easy installation. This mod should not conflict to any other mods.
-2.3 For manual installation unzip folder then drop it into "Your TW3 folder\Mods".
+# Unrestricted move and sell quest items
+
+![logo](logo.png)
+
+## Description
+
+This mod allows you to move quest items into stash or sell them to traders.
+
+## Installation
+
+This mod is separated onto 3 different branches, pick one of them to get functionality you want:
+
+  - `/move/` - Allows moving quest items to your stash
+  - `/sell/` - Allows selling quest items
+  - `/move-sell/` - Both versions combined
+
+### Nexus Mod Manager (Vortex) installation
+
+Use this link to install [move][vortex-move]/[sell][vortex-sell]/[move-sell][vortex-move-sell] versions
+
+### Manual installation
+
+**Copy and replace** chosen files to `tw3-root/Mods` folder.
+
+[nexusmods]: https://www.nexusmods.com/witcher3/mods/2495
+[vortex-move]: https://www.nexusmods.com/witcher3/mods/2495?tab=files&file_id=22124&nmm=1
+[vortex-sell]: https://www.nexusmods.com/witcher3/mods/2495?tab=files&file_id=22125&nmm=1
+[vortex-move-sell]: https://www.nexusmods.com/witcher3/mods/2495?tab=files&file_id=22126&nmm=1
